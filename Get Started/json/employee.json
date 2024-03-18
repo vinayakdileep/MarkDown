@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": "001",
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 80000
+    },
+    {
+      "id": "002",
+      "name": "Jane Smith",
+      "position": "Data Scientist",
+      "department": "Analytics",
+      "salary": 90000
+    },
+    {
+      "id": "003",
+      "name": "Alice Johnson",
+      "position": "Marketing Manager",
+      "department": "Marketing",
+      "salary": 85000
+    }
+  ]
+}
