@@ -1,5 +1,5 @@
 title: Get started
-## Welcone to mark down
+## Welcome to mark down
 
 <details>
 <summary>Sample Response</summary>
