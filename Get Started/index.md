@@ -32,7 +32,7 @@ Give some dummy details here.
 
 #### Step 2.1: Retrieve SSO information
 
-**Azure Function invoked from the event1:**
+##### Azure Function invoked from the event1:
 
 Here is an illustration of the payload structure and an explanation of how to extract SSO values from the payload when an Azure Function is invoked.
 
@@ -60,7 +60,7 @@ public class SSOInfo
 
 </details>
 
-**Azure Function invoked from the Event 2:**
+##### Azure Function invoked from the Event 2:
 
 Here is an illustration of the payload structure and an explanation of how to extract SSO values from the payload when an Azure Function is invoked from dummy event 2.
 
